@@ -9,6 +9,16 @@ In this workshop we’ll learn how to master enough of Git concepts to become me
 
 You do not need to be a developer to participate, you will not have to write any code. Instead we will use bash scripting to learn Git through its Command Line Interface (CLI).
 
-The notebook uses Bash
+# Prerequisites
+
+## Jupyter requirements
+
+The notebook uses the Bash kernel
+
+## Other dependencies
+
+None
+
+
 
 [View the notebook now](./1-WKSHP-GIT-Basics.ipynb)
